@@ -17,4 +17,5 @@ The dataset contains 43 different classes of traffic signs with a total of 50,00
  pip install pandas 
  pip install numpy
  pip install GUI
- pip install sk-learn ```
+ pip install sk-learn
+```
