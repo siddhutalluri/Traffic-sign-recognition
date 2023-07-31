@@ -14,4 +14,4 @@ This repository contains the code for a Traffic Sign Recognition project. The pr
 - [Usage](#usage)
 
 ## Demo
-https://lh3.googleusercontent.com/drive-viewer/AITFw-ymJ_2gU4_8Go6h8KXozIPnGQX98Bhssefo9Cd5OrCfFlupWeIL5JkJ1zL-CB6OYirWJIc2ejEyXL7KLFLYBdNfs60D=s2560)https://lh3.googleusercontent.com/drive-viewer/AITFw-ymJ_2gU4_8Go6h8KXozIPnGQX98Bhssefo9Cd5OrCfFlupWeIL5JkJ1zL-CB6OYirWJIc2ejEyXL7KLFLYBdNfs60D=s2560
+<a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-ymJ_2gU4_8Go6h8KXozIPnGQX98Bhssefo9Cd5OrCfFlupWeIL5JkJ1zL-CB6OYirWJIc2ejEyXL7KLFLYBdNfs60D=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-ymJ_2gU4_8Go6h8KXozIPnGQX98Bhssefo9Cd5OrCfFlupWeIL5JkJ1zL-CB6OYirWJIc2ejEyXL7KLFLYBdNfs60D=s2560" /> </a>
